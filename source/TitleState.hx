@@ -604,7 +604,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Psych Engine by'], 15);
 					#else
-					createCoolText(['TableTopTwo']);
+					createCoolText(['Team Funkin Through Roblox']);
 					#end
 				// credTextShit.visible = true;
 				case 3:

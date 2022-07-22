@@ -82,33 +82,15 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Funkin Through Roblox Team'],
-			['Nofeet',		'nofeet',		'Programer, Composer, Voice Actor, and Artist. Did most of the work',		'https://www.youtube.com/channel/UCNeGmEQkWwvj8vSJRUq4EHA',		'21B6AB'],
+			['Nofeet',		'nofeet',		'Project Lead, Programer, Composer, Voice Actor, and Artist',		'https://www.youtube.com/channel/UCNeGmEQkWwvj8vSJRUq4EHA',		'21B6AB'],
 			['TigerWTYT', 		'tigerwtyt',		'Voice Actor and Background Artist',		'https://www.youtube.com/channel/UCKnquhnBHCwWZkSUHNNB1GQ',		'D68282'],
+			['MrGenie151', 		'mrgeine151',		'Programmer',		'https://gamebanana.com/members/1882760',		'59b0e3'],
+			['WhiteSword-v', 		'whitesword-v',		'Artist',		'https://gamebanana.com/members/1836548',		'b33be3'],
+			['CactoAesis', 		'cactoaesis',		'Composer',		'https://gamebanana.com/members/1836548',		'0cb339'],
 			['SpotMan',		'spotman',		'Voice Actor',		'https://www.youtube.com/channel/UCfwnapqsrueBD3VB0aMVOhg',		'6D5ECF'],
 			[''],
 			['Extras'],
 			['TableTopTwo',		'tabletoptwo',		'Twitch Accound for Nofeet and TigerWTYT',		'https://www.twitch.tv/tabletoptwo',	'AF7C3A'],
-			[''],
-			['Psych Engine Team'],
-			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
-			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
-			['shubs',				'shubs',			'Additional Programmer of Psych Engine',					'https://twitter.com/yoshubs',			'279ADC'],
-			[''],
-			['Former Engine Members'],
-			['bb-panzu',			'bb-panzu',			'Ex-Programmer of Psych Engine',							'https://twitter.com/bbsub3',			'389A58'],
-			[''],
-			['Engine Contributors'],
-			['iFlicky',				'iflicky',			'Composer of Psync and Tea Time\nMade the Dialogue Sounds',	'https://twitter.com/flicky_i',			'AA32FE'],
-			['SqirraRNG',			'gedehari',			'Chart Editor\'s Sound Waveform base',						'https://twitter.com/gedehari',			'FF9300'],
-			['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',								'https://twitter.com/polybiusproxy',	'FFEAA6'],
-			['Keoiki',				'keoiki',			'Note Splash Animations',									'https://twitter.com/Keoiki_',			'FFFFFF'],
-			['Smokey',				'smokey',			'Spritemap Texture Support',								'https://twitter.com/Smokey_5_',		'4D5DBD'],
-			[''],
-			["Funkin' Crew"],
-			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",						'https://twitter.com/ninja_muffin99',	'F73838'],
-			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",							'https://twitter.com/PhantomArcade3K',	'FFBB1B'],
-			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",							'https://twitter.com/evilsk8r',			'53E52C'],
-			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",							'https://twitter.com/kawaisprite',		'6475F3']
 		];
 		
 		for(i in pisspoop){
