@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf ex.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf idle0000" x="0" y="0" width="477" height="525"/>
+	<SubTexture name="bf idle0001" x="477" y="0" width="477" height="525"/>
+	<SubTexture name="bf idle0002" x="954" y="0" width="477" height="525"/>
+	<SubTexture name="bf idle0003" x="1431" y="0" width="477" height="525"/>
+	<SubTexture name="bf idle0004" x="1908" y="0" width="477" height="525"/>
+	<SubTexture name="bf left0000" x="2385" y="0" width="477" height="525"/>
+	<SubTexture name="bf left0001" x="2862" y="0" width="477" height="525"/>
+	<SubTexture name="bf right0000" x="0" y="525" width="477" height="525"/>
+	<SubTexture name="bf right0001" x="477" y="525" width="477" height="525"/>
+	<SubTexture name="bf up0000" x="954" y="525" width="477" height="525"/>
+	<SubTexture name="bf up0001" x="1431" y="525" width="477" height="525"/>
+	<SubTexture name="bf down0000" x="1908" y="525" width="477" height="525"/>
+	<SubTexture name="bf down0001" x="2385" y="525" width="477" height="525"/>
+	<SubTexture name="bf hey0000" x="2862" y="525" width="477" height="525"/>
+	<SubTexture name="bf hey0001" x="0" y="1050" width="477" height="525"/>
+	<SubTexture name="bf hey0002" x="477" y="1050" width="477" height="525"/>
+	<SubTexture name="bf lmiss0000" x="1070" y="1379" width="477" height="525"/>
+	<SubTexture name="bf lmiss0001" x="1547" y="1379" width="477" height="525"/>
+	<SubTexture name="bf rmiss0000" x="2024" y="1379" width="477" height="525"/>
+	<SubTexture name="bf rmiss0001" x="2501" y="1379" width="477" height="525"/>
+	<SubTexture name="bf umiss0000" x="2978" y="1379" width="477" height="525"/>
+	<SubTexture name="bf umiss0001" x="3455" y="1379" width="477" height="525"/>
+	<SubTexture name="bf dmiss0000" x="1070" y="1904" width="477" height="525"/>
+	<SubTexture name="bf dmiss0001" x="1547" y="1904" width="477" height="525"/>
+</TextureAtlas>
