@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HeadAuxBop.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HeadAuxBop0000" x="0" y="0" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0001" x="615" y="0" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0002" x="1230" y="0" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0003" x="0" y="449" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0004" x="615" y="449" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0005" x="1230" y="449" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0006" x="0" y="898" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0007" x="615" y="898" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0008" x="1230" y="898" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0009" x="0" y="1347" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0010" x="615" y="1347" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0011" x="1230" y="1347" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0012" x="0" y="1796" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0013" x="615" y="1796" width="615" height="449"/>
+	<SubTexture name="HeadAuxBop0014" x="1230" y="1796" width="615" height="449"/>
+</TextureAtlas>

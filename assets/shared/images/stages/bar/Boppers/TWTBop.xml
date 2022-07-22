@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TWTBop.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TWTBop0000" x="0" y="0" width="682" height="463"/>
+	<SubTexture name="TWTBop0001" x="682" y="0" width="682" height="463"/>
+	<SubTexture name="TWTBop0002" x="1364" y="0" width="682" height="463"/>
+	<SubTexture name="TWTBop0003" x="0" y="463" width="682" height="463"/>
+	<SubTexture name="TWTBop0004" x="682" y="463" width="682" height="463"/>
+	<SubTexture name="TWTBop0005" x="1364" y="463" width="682" height="463"/>
+	<SubTexture name="TWTBop0006" x="0" y="926" width="682" height="463"/>
+	<SubTexture name="TWTBop0007" x="682" y="926" width="682" height="463"/>
+	<SubTexture name="TWTBop0008" x="1364" y="926" width="682" height="463"/>
+	<SubTexture name="TWTBop0009" x="0" y="1389" width="682" height="463"/>
+	<SubTexture name="TWTBop0010" x="682" y="1389" width="682" height="463"/>
+	<SubTexture name="TWTBop0011" x="1364" y="1389" width="682" height="463"/>
+	<SubTexture name="TWTBop0012" x="0" y="1852" width="682" height="463"/>
+	<SubTexture name="TWTBop0013" x="682" y="1852" width="682" height="463"/>
+	<SubTexture name="TWTBop0014" x="1364" y="1852" width="682" height="463"/>
+</TextureAtlas>

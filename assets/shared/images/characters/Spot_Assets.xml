@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spot_Assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spot Down0000" x="0" y="0" width="549" height="612"/>
+	<SubTexture name="Spot Down0001" x="549" y="0" width="549" height="612"/>
+	<SubTexture name="Spot Down0002" x="1098" y="0" width="549" height="612"/>
+	<SubTexture name="Spot Down0003" x="1647" y="0" width="549" height="612"/>
+	<SubTexture name="Spot Down0004" x="1647" y="0" width="549" height="612"/>
+	<SubTexture name="Spot Idle0000" x="2196" y="0" width="552" height="615"/>
+	<SubTexture name="Spot Idle0001" x="2748" y="0" width="552" height="615"/>
+	<SubTexture name="Spot Idle0002" x="3300" y="0" width="552" height="615"/>
+	<SubTexture name="Spot Idle0003" x="0" y="615" width="552" height="615"/>
+	<SubTexture name="Spot Idle0004" x="552" y="615" width="552" height="615"/>
+	<SubTexture name="Spot Idle0005" x="1104" y="615" width="552" height="615"/>
+	<SubTexture name="Spot Idle0006" x="1656" y="615" width="552" height="615"/>
+	<SubTexture name="Spot Idle0007" x="2208" y="615" width="552" height="615"/>
+	<SubTexture name="Spot Idle0008" x="2760" y="615" width="552" height="615"/>
+	<SubTexture name="Spot Idle0009" x="3312" y="615" width="552" height="615"/>
+	<SubTexture name="Spot Idle0010" x="0" y="1230" width="552" height="615"/>
+	<SubTexture name="Spot Idle0011" x="552" y="1230" width="552" height="615"/>
+	<SubTexture name="Spot Idle0012" x="1104" y="1230" width="552" height="615"/>
+	<SubTexture name="Spot Idle0013" x="1656" y="1230" width="552" height="615"/>
+	<SubTexture name="Spot Idle0014" x="2196" y="0" width="552" height="615"/>
+	<SubTexture name="Spot Left0000" x="2208" y="1230" width="549" height="658"/>
+	<SubTexture name="Spot Left0001" x="2757" y="1230" width="549" height="658"/>
+	<SubTexture name="Spot Left0002" x="3306" y="1230" width="549" height="658"/>
+	<SubTexture name="Spot Left0003" x="0" y="1888" width="549" height="658"/>
+	<SubTexture name="Spot Left0004" x="0" y="1888" width="549" height="658"/>
+	<SubTexture name="Spot Right'0000" x="549" y="1888" width="549" height="654"/>
+	<SubTexture name="Spot Right'0001" x="1098" y="1888" width="549" height="654"/>
+	<SubTexture name="Spot Right'0002" x="1647" y="1888" width="549" height="654"/>
+	<SubTexture name="Spot Right'0003" x="2196" y="1888" width="549" height="654"/>
+	<SubTexture name="Spot Right'0004" x="2196" y="1888" width="549" height="654"/>
+	<SubTexture name="Spot Up0000" x="2745" y="1888" width="549" height="696"/>
+	<SubTexture name="Spot Up0001" x="3294" y="1888" width="549" height="696"/>
+	<SubTexture name="Spot Up0002" x="0" y="2584" width="549" height="696"/>
+	<SubTexture name="Spot Up0003" x="549" y="2584" width="549" height="696"/>
+	<SubTexture name="Spot Up0004" x="549" y="2584" width="549" height="696"/>
+</TextureAtlas>

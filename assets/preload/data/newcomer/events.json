@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "bar",
+		"player1": "bf-blox",
+		"player2": "wt",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-roblox",
+		"bpm": 172,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "newcomer"
+	}
+}

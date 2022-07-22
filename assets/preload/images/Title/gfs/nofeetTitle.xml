@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nofeetTitle.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NofeetTitle0000" x="0" y="0" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0001" x="722" y="0" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0002" x="0" y="741" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0003" x="722" y="741" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0004" x="0" y="1482" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0005" x="722" y="1482" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0006" x="0" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0007" x="722" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0008" x="722" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0009" x="722" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0010" x="722" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0011" x="722" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0012" x="722" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0013" x="722" y="2223" width="722" height="741"/>
+	<SubTexture name="NofeetTitle0014" x="722" y="2223" width="722" height="741"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wtTitle.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WTTitle0000" x="0" y="0" width="726" height="609"/>
+	<SubTexture name="WTTitle0001" x="726" y="0" width="726" height="609"/>
+	<SubTexture name="WTTitle0002" x="1452" y="0" width="726" height="609"/>
+	<SubTexture name="WTTitle0003" x="1452" y="0" width="726" height="609"/>
+	<SubTexture name="WTTitle0004" x="2178" y="0" width="726" height="609"/>
+	<SubTexture name="WTTitle0005" x="2904" y="0" width="726" height="609"/>
+	<SubTexture name="WTTitle0006" x="0" y="609" width="726" height="609"/>
+	<SubTexture name="WTTitle0007" x="726" y="609" width="726" height="609"/>
+	<SubTexture name="WTTitle0008" x="1452" y="609" width="726" height="609"/>
+	<SubTexture name="WTTitle0009" x="2178" y="609" width="726" height="609"/>
+	<SubTexture name="WTTitle0010" x="2904" y="609" width="726" height="609"/>
+	<SubTexture name="WTTitle0011" x="0" y="1218" width="726" height="609"/>
+	<SubTexture name="WTTitle0012" x="726" y="1218" width="726" height="609"/>
+	<SubTexture name="WTTitle0013" x="1452" y="1218" width="726" height="609"/>
+	<SubTexture name="WTTitle0014" x="1452" y="1218" width="726" height="609"/>
+</TextureAtlas>

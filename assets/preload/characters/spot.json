@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spot Right"
+		},
+		{
+			"offsets": [
+				5,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spot Left"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spot Down"
+		},
+		{
+			"offsets": [
+				-6,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spot Up"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Spot Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spot_Assets",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "spot",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		133,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

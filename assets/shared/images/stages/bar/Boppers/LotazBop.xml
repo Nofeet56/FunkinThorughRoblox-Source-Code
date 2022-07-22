@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LotazBop.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LotazBop0000" x="0" y="0" width="593" height="410"/>
+	<SubTexture name="LotazBop0001" x="593" y="0" width="593" height="410"/>
+	<SubTexture name="LotazBop0002" x="1186" y="0" width="593" height="410"/>
+	<SubTexture name="LotazBop0003" x="0" y="410" width="593" height="410"/>
+	<SubTexture name="LotazBop0004" x="593" y="410" width="593" height="410"/>
+	<SubTexture name="LotazBop0005" x="1186" y="410" width="593" height="410"/>
+	<SubTexture name="LotazBop0006" x="0" y="820" width="593" height="410"/>
+	<SubTexture name="LotazBop0007" x="593" y="820" width="593" height="410"/>
+	<SubTexture name="LotazBop0008" x="1186" y="820" width="593" height="410"/>
+	<SubTexture name="LotazBop0009" x="0" y="1230" width="593" height="410"/>
+	<SubTexture name="LotazBop0010" x="593" y="1230" width="593" height="410"/>
+	<SubTexture name="LotazBop0011" x="1186" y="1230" width="593" height="410"/>
+	<SubTexture name="LotazBop0012" x="0" y="1640" width="593" height="410"/>
+	<SubTexture name="LotazBop0013" x="593" y="1640" width="593" height="410"/>
+	<SubTexture name="LotazBop0014" x="1186" y="1640" width="593" height="410"/>
+</TextureAtlas>

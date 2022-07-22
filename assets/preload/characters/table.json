@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Table Idle"
+		},
+		{
+			"offsets": [
+				11,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Table Left instance"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Table Down instance"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Table Up instance"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Table Right instance"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-NF",
+			"indices": [],
+			"name": "Table Left NF instance"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-WT",
+			"indices": [],
+			"name": "Table Left WT instance"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-NF",
+			"indices": [],
+			"name": "Table Down NF instance"
+		},
+		{
+			"offsets": [
+				2,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-WT",
+			"indices": [],
+			"name": "Table Down WT instance"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-NF",
+			"indices": [],
+			"name": "Table Up NF instance"
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-WT",
+			"indices": [],
+			"name": "Table Up WT instance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-NF",
+			"indices": [],
+			"name": "Table Right NF instance"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-WT",
+			"indices": [],
+			"name": "Table Right WT instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Table",
+	"position": [
+		50,
+		120
+	],
+	"healthicon": "table",
+	"flip_x": false,
+	"healthbar_colors": [
+		7,
+		56,
+		86
+	],
+	"camera_position": [
+		-510,
+		-340
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1
+}

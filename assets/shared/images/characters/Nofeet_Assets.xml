@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nofeet_Assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NofeetDown0000" x="0" y="0" width="419" height="485"/>
+	<SubTexture name="NofeetDown0001" x="419" y="0" width="419" height="485"/>
+	<SubTexture name="NofeetDown0002" x="838" y="0" width="419" height="485"/>
+	<SubTexture name="NofeetDown0003" x="1257" y="0" width="419" height="485"/>
+	<SubTexture name="NofeetIdle0000" x="0" y="485" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0001" x="419" y="485" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0002" x="838" y="485" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0003" x="1257" y="485" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0004" x="0" y="932" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0005" x="419" y="932" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0006" x="838" y="932" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0007" x="1257" y="932" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0008" x="0" y="1379" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0009" x="419" y="1379" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0010" x="838" y="1379" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0011" x="1257" y="1379" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0012" x="0" y="1826" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0013" x="419" y="1826" width="419" height="447"/>
+	<SubTexture name="NofeetIdle0014" x="0" y="485" width="419" height="447"/>
+	<SubTexture name="NofeetLeft0000" x="838" y="1826" width="419" height="489"/>
+	<SubTexture name="NofeetLeft0001" x="1257" y="1826" width="419" height="489"/>
+	<SubTexture name="NofeetLeft0002" x="0" y="2315" width="419" height="489"/>
+	<SubTexture name="NofeetLeft0003" x="419" y="2315" width="419" height="489"/>
+	<SubTexture name="NofeetRight0000" x="838" y="2315" width="419" height="473"/>
+	<SubTexture name="NofeetRight0001" x="1257" y="2315" width="419" height="473"/>
+	<SubTexture name="NofeetRight0002" x="0" y="2804" width="419" height="473"/>
+	<SubTexture name="NofeetRight0003" x="419" y="2804" width="419" height="473"/>
+	<SubTexture name="NofeetUp0000" x="838" y="2804" width="419" height="480"/>
+	<SubTexture name="NofeetUp0001" x="1257" y="2804" width="419" height="480"/>
+	<SubTexture name="NofeetUp0002" x="0" y="3284" width="419" height="480"/>
+	<SubTexture name="NofeetUp0003" x="419" y="3284" width="419" height="480"/>
+</TextureAtlas>
