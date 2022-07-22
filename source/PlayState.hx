@@ -700,6 +700,8 @@ class PlayState extends MusicBeatState
 				}
 
 			case 'city':
+				var buildings:BGSprite = new BGSprite('stages/city/Buildings', -600, -300, 0.7, 0.7);
+				add(buildings);
 				var bg:BGSprite = new BGSprite('stages/city/ParkBG', -600, -300, 0.95, 0.95);
 				add(bg);
 				FenceFG = new BGSprite('stages/city/FenceFG', -600, -200, 1.1, 1.1);
