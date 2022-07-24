@@ -16,20 +16,18 @@ import flixel.math.FlxMath;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
-import flixel.util.FlxTimer;
 import lime.app.Application;
 import Achievements;
 import editors.MasterEditorMenu;
 import flixel.input.keyboard.FlxKey;
-import sys.io.File;
 
 using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.5.2h'; //This is also used for Discord RPC
+	public static var psychEngineVersion:String = '0.6.2'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
-	
+
 	var menuItems:FlxTypedGroup<FlxSprite>;
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
@@ -49,11 +47,15 @@ class MainMenuState extends MusicBeatState
 	var bf:BGSprite;
 	var nofeet:BGSprite;
 	var wt:BGSprite;
-	var spot:BGSprite;    
+	var spot:BGSprite;
 
 	override function create()
 	{
+		#if MODS_ALLOWED
+		Paths.pushGlobalMods();
+		#end
 		WeekData.loadTheFirstEnabledMod();
+
 		#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
@@ -96,7 +98,7 @@ class MainMenuState extends MusicBeatState
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
 		magenta.color = 0xFFfd719b;
 		add(magenta);
-		
+
 		var blackShit:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('mainmenu/BlackShit'));
 		blackShit.scrollFactor.set(0, 0);
 		blackShit.setGraphicSize(Std.int(blackShit.width * 1.175));
@@ -178,10 +180,11 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Funkin' Through Roblox Demo", 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Funkin' Through Roblox Demo V 2.0", 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
+
 		// NG.core.calls.event.logEvent('swag').send();
 
 		changeItem();
@@ -198,6 +201,7 @@ class MainMenuState extends MusicBeatState
 			}
 		}
 		#end
+
 		super.create();
 	}
 
@@ -209,7 +213,7 @@ class MainMenuState extends MusicBeatState
 		trace('Giving achievement "friday_night_play"');
 	}
 	#end
-	
+
 	var selectedSomethin:Bool = false;
 
 	override function update(elapsed:Float)
@@ -217,6 +221,7 @@ class MainMenuState extends MusicBeatState
 		if (FlxG.sound.music.volume < 0.8)
 		{
 			FlxG.sound.music.volume += 0.5 * FlxG.elapsed;
+			if(FreeplayState.vocals != null) FreeplayState.vocals.volume += 0.5 * elapsed;
 		}
 
 		var lerpVal:Float = CoolUtil.boundTo(elapsed * 7.5, 0, 1);
@@ -273,6 +278,7 @@ class MainMenuState extends MusicBeatState
 							FlxFlicker.flicker(spr, 1, 0.06, false, false, function(flick:FlxFlicker)
 							{
 								var daChoice:String = optionShit[curSelected];
+
 								switch (daChoice)
 								{
 									case 'story_mode':
@@ -303,11 +309,12 @@ class MainMenuState extends MusicBeatState
 			}
 			#end
 		}
+
 		super.update(elapsed);
 
 		menuItems.forEach(function(spr:FlxSprite)
 		{
-			
+			spr.screenCenter(X);
 		});
 	}
 
