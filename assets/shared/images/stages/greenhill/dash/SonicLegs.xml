@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicLegs.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicLegsRunning0000" x="0" y="0" width="194" height="150" frameX="0" frameY="-2" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0001" x="194" y="0" width="194" height="150" frameX="0" frameY="0" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0002" x="0" y="150" width="194" height="150" frameX="0" frameY="-2" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0003" x="194" y="150" width="194" height="150" frameX="0" frameY="-2" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0004" x="0" y="300" width="194" height="150" frameX="0" frameY="-2" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0005" x="194" y="300" width="194" height="150" frameX="0" frameY="-2" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0006" x="0" y="450" width="194" height="150" frameX="0" frameY="0" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0007" x="194" y="450" width="194" height="150" frameX="0" frameY="-2" frameWidth="194" frameHeight="152"/>
+	<SubTexture name="SonicLegsRunning0008" x="0" y="600" width="194" height="150" frameX="0" frameY="-2" frameWidth="194" frameHeight="152"/>
+</TextureAtlas>

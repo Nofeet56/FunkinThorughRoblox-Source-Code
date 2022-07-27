@@ -812,9 +812,17 @@ class PlayState extends MusicBeatState
 				var bg:BGSprite = new BGSprite('stages/city/ParkBG', -600, -300, 0.95, 0.95);
 				add(bg);
 				FenceFG = new BGSprite('stages/city/FenceFG', -600, -200, 1.1, 1.1);
+
+			case 'bloxin':
+				var sky:BGSprite = new BGSprite('stages/bloxin/Clouds', -200, -180, 0.7, 0.7);
+				sky.setGraphicSize(Std.int(sky.width * 1.2));
+				add(sky);
+				var bg:BGSprite = new BGSprite('stages/bloxin/Stage', -200, -80, 0.95, 0.95);
+				bg.setGraphicSize(Std.int(bg.width * 1.2));
+				add(bg);
 	
 			case 'bar':
-				var bg:BGSprite = new BGSprite('stages/bar/FloorWalls', -200,-180, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('stages/bar/FloorWalls', -200, -180, 0.9, 0.9);
 				bg.setGraphicSize(Std.int(bg.width * 1.2));
 				add(bg);
 	
@@ -850,6 +858,22 @@ class PlayState extends MusicBeatState
 				var stage:BGSprite = new BGSprite('stages/amphitheater/Stage', -240, -140, 0.95,0.95);
 				stage.setGraphicSize(Std.int(stage.width * 1.3));
 				add(stage);
+
+			case 'green-hill':
+				var sky:BGSprite = new BGSprite('stages/greenhill/Sky', -240, -140, 1, 1);
+				add(sky);
+				
+				var bg1:BGSprite = new BGSprite('stages/greenhill/BG2', -240, 0, 0.7, 0.7);
+				bg1.setGraphicSize(Std.int(bg1.width * 1.1));
+				add(bg1);
+
+				var bg2:BGSprite = new BGSprite('stages/greenhill/BG1', -240, 0, 0.8, 0.8);
+				bg2.setGraphicSize(Std.int(bg2.width * 1.1));
+				add(bg2);
+
+				var ground:BGSprite = new BGSprite('stages/greenhill/Ground', -280,-140, 0.95, 0.95);
+				ground.setGraphicSize(Std.int(ground.width * 1.1));
+				add(ground);
 	
 			case 'void':	
 

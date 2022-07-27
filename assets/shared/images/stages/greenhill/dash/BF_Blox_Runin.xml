@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Blox_Runin.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFDown0000" x="0" y="2181" width="419" height="357"/>
+	<SubTexture name="BFDown0001" x="419" y="2181" width="419" height="357"/>
+	<SubTexture name="BFDown0002" x="1257" y="2533" width="419" height="357"/>
+	<SubTexture name="BFDown0003" x="838" y="2535" width="419" height="357"/>
+	<SubTexture name="BFIdle0000" x="1257" y="1105" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0001" x="838" y="1107" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0002" x="0" y="1110" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0003" x="419" y="1110" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0004" x="1257" y="1462" width="419" height="357" frameX="-1" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0005" x="838" y="1464" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0006" x="0" y="1467" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0007" x="419" y="1467" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0008" x="1257" y="1819" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0009" x="838" y="1821" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0010" x="0" y="1824" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0011" x="419" y="1824" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0012" x="1257" y="2176" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0013" x="838" y="2178" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFIdle0014" x="1257" y="1105" width="419" height="357" frameX="0" frameY="0" frameWidth="420" frameHeight="357"/>
+	<SubTexture name="BFLeft0000" x="1257" y="375" width="419" height="373"/>
+	<SubTexture name="BFLeft0001" x="838" y="377" width="419" height="373"/>
+	<SubTexture name="BFLeft0002" x="0" y="381" width="419" height="372" frameX="0" frameY="-1" frameWidth="419" frameHeight="373"/>
+	<SubTexture name="BFLeft0003" x="419" y="381" width="419" height="372" frameX="0" frameY="-1" frameWidth="419" frameHeight="373"/>
+	<SubTexture name="BFRight0000" x="1257" y="748" width="419" height="357"/>
+	<SubTexture name="BFRight0001" x="838" y="750" width="419" height="357"/>
+	<SubTexture name="BFRight0002" x="0" y="753" width="419" height="357"/>
+	<SubTexture name="BFRight0003" x="419" y="753" width="419" height="357"/>
+	<SubTexture name="BFUp0000" x="0" y="0" width="419" height="381"/>
+	<SubTexture name="BFUp0001" x="419" y="0" width="419" height="381"/>
+	<SubTexture name="BFUp0002" x="838" y="0" width="419" height="377" frameX="0" frameY="-4" frameWidth="419" frameHeight="381"/>
+	<SubTexture name="BFUp0003" x="1257" y="0" width="419" height="375" frameX="0" frameY="-6" frameWidth="419" frameHeight="381"/>
+</TextureAtlas>
