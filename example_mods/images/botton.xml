@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="botton.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red idle0000" x="268" y="0" width="268" height="118"/>
+	<SubTexture name="red highlight0000" x="268" y="118" width="268" height="118"/>
+	<SubTexture name="red press0000" x="268" y="236" width="268" height="118"/>
+	<SubTexture name="red press0001" x="268" y="118" width="268" height="118"/>
+	<SubTexture name="green idle0000" x="0" y="0" width="268" height="118"/>
+	<SubTexture name="green highlight0000" x="0" y="118" width="268" height="118"/>
+	<SubTexture name="green press0000" x="0" y="236" width="268" height="118"/>
+	<SubTexture name="green press0001" x="0" y="118" width="268" height="118"/>
+</TextureAtlas>

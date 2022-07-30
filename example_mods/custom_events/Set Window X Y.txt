@@ -1,0 +1,3 @@
+Sets the window's X and Y position.
+Value 1: X Pos
+Value 2L Y Pos
