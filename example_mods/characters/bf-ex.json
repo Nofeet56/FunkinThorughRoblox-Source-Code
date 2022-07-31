@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Left"
+		},
+		{
+			"offsets": [
+				-36,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Down"
+		},
+		{
+			"offsets": [
+				-30,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Up"
+		},
+		{
+			"offsets": [
+				-48,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Right"
+		},
+		{
+			"offsets": [
+				-3,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF Miss Left"
+		},
+		{
+			"offsets": [
+				-35,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF Miss Down"
+		},
+		{
+			"offsets": [
+				-26,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF Miss Up"
+		},
+		{
+			"offsets": [
+				-44,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF Miss Right"
+		},
+		{
+			"offsets": [
+				-8,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF Hey"
+		},
+		{
+			"offsets": [
+				148,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF Dies"
+		},
+		{
+			"offsets": [
+				101,
+				-46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF DeathLoop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				-51
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF DeathConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_ex",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

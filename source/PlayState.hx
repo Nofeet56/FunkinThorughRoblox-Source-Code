@@ -242,13 +242,6 @@ class PlayState extends MusicBeatState
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
 
-	var bartender:BGSprite;
-	var headaux:BGSprite;
-	var lotaz:BGSprite;
-	var twt:BGSprite;
-
-	var FenceFG:BGSprite;
-
 	var tankWatchtower:BGSprite;
 	var tankGround:BGSprite;
 	var tankmanRun:FlxTypedGroup<TankmenBG>;
@@ -805,75 +798,6 @@ class PlayState extends MusicBeatState
 				if(!ClientPrefs.lowQuality) foregroundSprites.add(new BGSprite('tank4', 1300, 900, 1.5, 1.5, ['fg']));
 				foregroundSprites.add(new BGSprite('tank5', 1620, 700, 1.5, 1.5, ['fg']));
 				if(!ClientPrefs.lowQuality) foregroundSprites.add(new BGSprite('tank3', 1300, 1200, 3.5, 2.5, ['fg']));
-				
-			case 'city':
-				var buildings:BGSprite = new BGSprite('stages/city/Buildings', -600, -300, 0.7, 0.7);
-				add(buildings);
-				var bg:BGSprite = new BGSprite('stages/city/ParkBG', -600, -300, 0.95, 0.95);
-				add(bg);
-				FenceFG = new BGSprite('stages/city/FenceFG', -600, -200, 1.1, 1.1);
-
-			case 'bloxin':
-				var sky:BGSprite = new BGSprite('stages/bloxin/Clouds', -200, -180, 0.7, 0.7);
-				sky.setGraphicSize(Std.int(sky.width * 1.2));
-				add(sky);
-				var bg:BGSprite = new BGSprite('stages/bloxin/Stage', -200, -80, 0.95, 0.95);
-				bg.setGraphicSize(Std.int(bg.width * 1.2));
-				add(bg);
-	
-			case 'bar':
-				var bg:BGSprite = new BGSprite('stages/bar/FloorWalls', -200, -180, 0.9, 0.9);
-				bg.setGraphicSize(Std.int(bg.width * 1.2));
-				add(bg);
-	
-				bartender = new BGSprite('stages/bar/Boppers/Bartender', 130, 370, 0.85, 0.85, ['BartenderBop instance']);
-				bartender.setGraphicSize(Std.int(bartender.width * 1.2));
-				add(bartender);
-	
-				var pillars:BGSprite = new BGSprite('stages/bar/Pillars', -200,-180, 0.95, 0.95);
-				pillars.setGraphicSize(Std.int(pillars.width * 1.2));
-				add(pillars);
-	
-				headaux = new BGSprite('stages/bar/Boppers/HeadAuxBop', -230, 600, 1.2, 1.2, ['HeadAuxBop']);
-				headaux.setGraphicSize(Std.int(headaux.width * 1.2));
-	
-				lotaz = new BGSprite('stages/bar/Boppers/LotazBop', 500, 600, 1.2, 1.2, ['LotazBop']);
-				lotaz.setGraphicSize(Std.int(lotaz.width * 1.2));
-	
-				twt = new BGSprite('stages/bar/Boppers/TWTBop', 1300, 600, 1.2, 1.2, ['TWTBop']);
-				twt.setGraphicSize(Std.int(twt.width * 1.2));
-	
-			case 'amphitheater':
-				var sky:BGSprite = new BGSprite('stages/amphitheater/Sky', -240,-180, 1, 1);
-				sky.setGraphicSize(Std.int(sky.width * 1.3));
-				add(sky);
-	
-				var clouds:BGSprite = new BGSprite('stages/amphitheater/Clouds', -240, -180, 0.8, 0.8);
-				add(clouds);
-	
-				var trees:BGSprite = new BGSprite('stages/amphitheater/Trees', -240, -140, 0.9,0.9);
-				trees.setGraphicSize(Std.int(trees.width * 1.3));
-				add(trees);
-	
-				var stage:BGSprite = new BGSprite('stages/amphitheater/Stage', -240, -140, 0.95,0.95);
-				stage.setGraphicSize(Std.int(stage.width * 1.3));
-				add(stage);
-
-			case 'green-hill':
-				var sky:BGSprite = new BGSprite('stages/greenhill/Sky', -240, -140, 1, 1);
-				add(sky);
-				
-				var bg1:BGSprite = new BGSprite('stages/greenhill/BG2', -240, 0, 0.7, 0.7);
-				bg1.setGraphicSize(Std.int(bg1.width * 1.1));
-				add(bg1);
-
-				var bg2:BGSprite = new BGSprite('stages/greenhill/BG1', -240, 0, 0.8, 0.8);
-				bg2.setGraphicSize(Std.int(bg2.width * 1.1));
-				add(bg2);
-
-				var ground:BGSprite = new BGSprite('stages/greenhill/Ground', -280,-140, 0.95, 0.95);
-				ground.setGraphicSize(Std.int(ground.width * 1.1));
-				add(ground);
 	
 			case 'void':	
 
@@ -1049,13 +973,6 @@ class PlayState extends MusicBeatState
 				var evilTrail = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 				addBehindDad(evilTrail);
 
-			case 'bar':
-				add(lotaz);
-				add(headaux);
-				add(twt);
-	
-			case 'city':
-				add(FenceFG);
 		}
 
 		var file:String = Paths.json(songName + '/dialogue'); //Checks for json/Psych Engine dialogue
@@ -2108,17 +2025,6 @@ class PlayState extends MusicBeatState
 
 					bottomBoppers.dance(true);
 					santa.dance(true);
-				}
-
-				if(curStage == 'bar'){
-					if(!ClientPrefs.lowQuality)
-						if (tmr.loopsLeft % boyfriend.danceEveryNumBeats == 0 )
-						{
-							bartender.dance();
-							headaux.dance();
-							lotaz.dance();
-							twt.dance();
-						}
 				}
 
 				switch (swagCounter)
@@ -4995,16 +4901,6 @@ class PlayState extends MusicBeatState
 				{
 					trainCooldown = FlxG.random.int(-4, 0);
 					trainStart();
-				}
-			case 'bar':
-				if(!ClientPrefs.lowQuality) {
-					if (curBeat % boyfriend.danceEveryNumBeats == 0 )
-					{
-						bartender.dance();
-						headaux.dance();
-						lotaz.dance();
-						twt.dance();
-					}
 				}
 		}
 

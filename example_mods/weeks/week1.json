@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Piano-Blues",
+			"nofeet",
+			[
+				86,
+				193,
+				215
+			]
+		],
+		[
+			"Speed",
+			"sonic",
+			[
+				66,
+				33,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Week1",
+	"weekName": "LMAO Week 1 moment",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

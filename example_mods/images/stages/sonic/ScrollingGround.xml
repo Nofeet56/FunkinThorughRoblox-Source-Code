@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScrollingGround.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ScrollingGround0000" x="0" y="0" width="3339" height="498" frameX="-624" frameY="0" frameWidth="3963" frameHeight="498"/>
+	<SubTexture name="ScrollingGround0001" x="0" y="0" width="3339" height="498" frameX="-416" frameY="0" frameWidth="3963" frameHeight="498"/>
+	<SubTexture name="ScrollingGround0002" x="0" y="0" width="3339" height="498" frameX="-208" frameY="0" frameWidth="3963" frameHeight="498"/>
+	<SubTexture name="ScrollingGround0003" x="0" y="0" width="3339" height="498" frameX="0" frameY="0" frameWidth="3963" frameHeight="498"/>
+</TextureAtlas>

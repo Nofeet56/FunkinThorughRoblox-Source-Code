@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_TitleTest.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Idle Menu0000" x="0" y="0" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0001" x="419" y="0" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0002" x="838" y="0" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0003" x="1257" y="0" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0004" x="0" y="447" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0005" x="419" y="447" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0006" x="838" y="447" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0007" x="1257" y="447" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0008" x="0" y="894" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0009" x="419" y="894" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0010" x="838" y="894" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0011" x="1257" y="894" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0012" x="0" y="1341" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0013" x="419" y="1341" width="419" height="447"/>
+	<SubTexture name="BF Idle Menu0014" x="838" y="1341" width="419" height="447"/>
+</TextureAtlas>

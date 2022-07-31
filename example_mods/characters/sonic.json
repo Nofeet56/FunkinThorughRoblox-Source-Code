@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SonicIdle"
+		},
+		{
+			"offsets": [
+				-7,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SonicRight"
+		},
+		{
+			"offsets": [
+				-5,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SonicDown"
+		},
+		{
+			"offsets": [
+				-5,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SonicLeft"
+		},
+		{
+			"offsets": [
+				-16,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SonicUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-20
+			],
+			"anim": "preDash",
+			"fps": 24,
+			"name": "SonicPreDash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "dash",
+			"fps": 24,
+			"name": "SonicDash",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sonic_Asstes",
+	"position": [
+		70,
+		300
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		26,
+		0,
+		245
+	],
+	"camera_position": [
+		20,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

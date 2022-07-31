@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WawaScroll.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGScroll0000" x="0" y="0" width="3804" height="555" frameX="-1836" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0001" x="0" y="0" width="3804" height="555" frameX="-1771" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0002" x="0" y="0" width="3804" height="555" frameX="-1705" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0003" x="0" y="0" width="3804" height="555" frameX="-1640" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0004" x="0" y="0" width="3804" height="555" frameX="-1574" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0005" x="0" y="0" width="3804" height="555" frameX="-1509" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0006" x="0" y="0" width="3804" height="555" frameX="-1443" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0007" x="0" y="0" width="3804" height="555" frameX="-1377" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0008" x="0" y="0" width="3804" height="555" frameX="-1312" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0009" x="0" y="0" width="3804" height="555" frameX="-1246" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0010" x="0" y="0" width="3804" height="555" frameX="-1181" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0011" x="0" y="0" width="3804" height="555" frameX="-1115" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0012" x="0" y="0" width="3804" height="555" frameX="-1049" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0013" x="0" y="0" width="3804" height="555" frameX="-984" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0014" x="0" y="0" width="3804" height="555" frameX="-918" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0015" x="0" y="0" width="3804" height="555" frameX="-853" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0016" x="0" y="0" width="3804" height="555" frameX="-787" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0017" x="0" y="0" width="3804" height="555" frameX="-721" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0018" x="0" y="0" width="3804" height="555" frameX="-656" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0019" x="0" y="0" width="3804" height="555" frameX="-590" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0020" x="0" y="0" width="3804" height="555" frameX="-525" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0021" x="0" y="0" width="3804" height="555" frameX="-459" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0022" x="0" y="0" width="3804" height="555" frameX="-394" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0023" x="0" y="0" width="3804" height="555" frameX="-328" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0024" x="0" y="0" width="3804" height="555" frameX="-262" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0025" x="0" y="0" width="3804" height="555" frameX="-197" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0026" x="0" y="0" width="3804" height="555" frameX="-131" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0027" x="0" y="0" width="3804" height="555" frameX="-66" frameY="0" frameWidth="5640" frameHeight="555"/>
+	<SubTexture name="BGScroll0028" x="0" y="0" width="3804" height="555" frameX="0" frameY="0" frameWidth="5640" frameHeight="555"/>
+</TextureAtlas>

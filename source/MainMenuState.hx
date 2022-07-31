@@ -108,7 +108,7 @@ class MainMenuState extends MusicBeatState
 		blackShit.antialiasing = ClientPrefs.globalAntialiasing;
 		add(blackShit);
 
-		bf = new BGSprite('characters/bf_menu', 700, 360, 0, 0, ['BF Idle Menu'], true);
+		bf = new BGSprite('characters/bf_menublox', 700, 360, 0, 0, ['BF Idle Menu'], true);
 		bf.visible = false;
 		bf.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bf);
