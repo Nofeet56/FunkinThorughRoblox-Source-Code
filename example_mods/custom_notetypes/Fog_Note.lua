@@ -10,7 +10,7 @@ function onCreate()
 	--Iterate over all notes
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		--Check if the note is an Instakill Note
-		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Fog Note' then
+		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Fog_Note' then
 			setPropertyFromGroup('unspawnNotes', i, 'texture', 'fognote_assets'); --Change texture
 			setPropertyFromGroup('unspawnNotes',i,'noteSplashTexture','fognoteSplashes')
 			--setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '-500'); --Default value is: 0.023, health gained on hit
@@ -35,7 +35,7 @@ end
 -- noteType: The note type string/tag
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
-	if noteType == 'Fog Note' then
+	if noteType == 'Fog_Note' then
 
 	end
 end
@@ -43,7 +43,7 @@ end
 -- Called after the note miss calculations
 -- Player missed a note by letting it go offscreen
 function noteMiss(id, noteData, noteType, isSustainNote)
-	if noteType == 'Fog Note' then
+	if noteType == 'Fog_Note' then
 		fogAlpha = math.clamp(fogAlpha + 0.25,0,1)
 		canTween = true
 	end
