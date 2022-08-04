@@ -8,11 +8,11 @@ function onCreate()
 	addAnimationByPrefix('waterfall', 'WawaScroll', 'BGScroll', 24, true)
 	scaleObject('waterfall', 2, 2)
 
-	makeAnimatedLuaSprite('legs', 'stages/sonic/SonicLegs', 100, 460);
+	makeAnimatedLuaSprite('legs', 'stages/sonic/SonicLegs', 935, 460);
 	addAnimationByPrefix('legs', 'SonicLegs', 'SonicLegsRunning', 30, true)
 	scaleObject('legs', 1.3, 1.5)
 
-	makeAnimatedLuaSprite('bflegs', 'stages/sonic/BFLegs', 825, 150);
+	makeAnimatedLuaSprite('bflegs', 'stages/sonic/BFLegs', -30, 150);
 	addAnimationByPrefix('bflegs', 'BFLegs', 'BFLegsRunin', 30, true)
 	scaleObject('bflegs', 1.3, 1.5)
 

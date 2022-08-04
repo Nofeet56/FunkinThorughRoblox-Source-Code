@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "ADGDanceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-4
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "ADGDanceRight",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				94
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ADGRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ADGDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				89
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ADGLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				98
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ADGUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ADGNormal",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "adg",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		221,
+		130
+	],
+	"camera_position": [
+		-20,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

@@ -6,6 +6,9 @@ function onGameOver()
 	if getProperty('dad.curCharacter') == 'sonic' then
 		doLines = true;
 	end
+	if getProperty('dad.curCharacter') == 'sonic-running' then
+		doLines = true;
+	end
 	if doLines == true then
     	soundFadeIn(nil, 4, 0.2, 0.2);
     	math.randomseed(os.time());

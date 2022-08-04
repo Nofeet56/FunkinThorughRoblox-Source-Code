@@ -64,8 +64,8 @@
 	"no_antialiasing": false,
 	"image": "characters/BF_Blox_Runin",
 	"position": [
-		100,
-		140
+		-750,
+		160
 	],
 	"healthicon": "bf",
 	"flip_x": true,

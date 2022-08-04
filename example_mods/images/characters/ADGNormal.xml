@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ADGNormal.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ADGDanceLeft0000" x="593" y="770" width="131" height="320"/>
+	<SubTexture name="ADGDanceLeft0001" x="593" y="1090" width="131" height="320"/>
+	<SubTexture name="ADGDanceLeft0002" x="724" y="770" width="131" height="320"/>
+	<SubTexture name="ADGDanceLeft0003" x="724" y="1090" width="131" height="320"/>
+	<SubTexture name="ADGDanceLeft0004" x="593" y="1410" width="131" height="320"/>
+	<SubTexture name="ADGDanceLeft0005" x="724" y="1410" width="131" height="320"/>
+	<SubTexture name="ADGDanceLeft0006" x="855" y="770" width="131" height="320"/>
+	<SubTexture name="ADGDanceLeft0007" x="593" y="770" width="131" height="320"/>
+	<SubTexture name="ADGDanceRight0000" x="593" y="770" width="131" height="320"/>
+	<SubTexture name="ADGDanceRight0001" x="317" y="769" width="138" height="316"/>
+	<SubTexture name="ADGDanceRight0002" x="317" y="1085" width="138" height="316"/>
+	<SubTexture name="ADGDanceRight0003" x="455" y="769" width="138" height="316"/>
+	<SubTexture name="ADGDanceRight0004" x="317" y="1401" width="138" height="316"/>
+	<SubTexture name="ADGDanceRight0005" x="455" y="1085" width="138" height="316"/>
+	<SubTexture name="ADGDanceRight0006" x="455" y="1401" width="138" height="316"/>
+	<SubTexture name="ADGDanceRight0007" x="593" y="770" width="131" height="320"/>
+	<SubTexture name="ADGDown0000" x="263" y="0" width="263" height="345" frameX="0" frameY="-4" frameWidth="263" frameHeight="349"/>
+	<SubTexture name="ADGDown0001" x="0" y="696" width="263" height="345" frameX="0" frameY="-4" frameWidth="263" frameHeight="349"/>
+	<SubTexture name="ADGDown0002" x="0" y="349" width="263" height="347" frameX="0" frameY="-2" frameWidth="263" frameHeight="349"/>
+	<SubTexture name="ADGDown0003" x="0" y="0" width="263" height="349"/>
+	<SubTexture name="ADGLeft0000" x="432" y="386" width="120" height="383"/>
+	<SubTexture name="ADGLeft0001" x="552" y="386" width="120" height="383"/>
+	<SubTexture name="ADGLeft0002" x="672" y="387" width="120" height="383"/>
+	<SubTexture name="ADGLeft0003" x="792" y="387" width="120" height="383"/>
+	<SubTexture name="ADGRight0000" x="0" y="1041" width="169" height="386" frameX="0" frameY="-1" frameWidth="169" frameHeight="387"/>
+	<SubTexture name="ADGRight0001" x="0" y="1427" width="169" height="386" frameX="0" frameY="-1" frameWidth="169" frameHeight="387"/>
+	<SubTexture name="ADGRight0002" x="526" y="0" width="169" height="386" frameX="0" frameY="-1" frameWidth="169" frameHeight="387"/>
+	<SubTexture name="ADGRight0003" x="263" y="345" width="169" height="387"/>
+	<SubTexture name="ADGUp0000" x="695" y="0" width="148" height="387"/>
+	<SubTexture name="ADGUp0001" x="843" y="0" width="148" height="387"/>
+	<SubTexture name="ADGUp0002" x="169" y="1041" width="148" height="386" frameX="0" frameY="-1" frameWidth="148" frameHeight="387"/>
+	<SubTexture name="ADGUp0003" x="169" y="1427" width="148" height="385" frameX="0" frameY="-2" frameWidth="148" frameHeight="387"/>
+</TextureAtlas>
