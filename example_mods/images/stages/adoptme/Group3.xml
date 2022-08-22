@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Group3.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GG30000" x="0" y="0" width="440" height="401"/>
+	<SubTexture name="GG30001" x="440" y="0" width="440" height="401"/>
+	<SubTexture name="GG30002" x="0" y="401" width="440" height="401"/>
+	<SubTexture name="GG30003" x="440" y="401" width="440" height="401"/>
+	<SubTexture name="GG30004" x="0" y="802" width="440" height="401"/>
+	<SubTexture name="GG30005" x="440" y="802" width="440" height="401"/>
+	<SubTexture name="GG30006" x="0" y="1203" width="440" height="401"/>
+	<SubTexture name="GG30007" x="0" y="1604" width="440" height="401"/>
+	<SubTexture name="GG30008" x="440" y="1203" width="440" height="401"/>
+	<SubTexture name="GG30009" x="0" y="0" width="440" height="401"/>
+	<SubTexture name="GG30010" x="0" y="0" width="440" height="401"/>
+	<SubTexture name="GG30011" x="0" y="0" width="440" height="401"/>
+	<SubTexture name="GG30012" x="0" y="0" width="440" height="401"/>
+	<SubTexture name="GG30013" x="0" y="0" width="440" height="401"/>
+	<SubTexture name="GG30014" x="0" y="0" width="440" height="401"/>
+</TextureAtlas>

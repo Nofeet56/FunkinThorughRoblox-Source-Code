@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dog1.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dog10000" x="0" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10001" x="0" y="140" width="103" height="140"/>
+	<SubTexture name="Dog10002" x="0" y="280" width="103" height="140"/>
+	<SubTexture name="Dog10003" x="103" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10004" x="206" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10005" x="309" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10006" x="103" y="140" width="103" height="140"/>
+	<SubTexture name="Dog10007" x="103" y="280" width="103" height="140"/>
+	<SubTexture name="Dog10008" x="206" y="140" width="103" height="140"/>
+	<SubTexture name="Dog10009" x="0" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10010" x="0" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10011" x="0" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10012" x="0" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10013" x="0" y="0" width="103" height="140"/>
+	<SubTexture name="Dog10014" x="0" y="0" width="103" height="140"/>
+</TextureAtlas>

@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-7
+				-2,
+				47
 			],
 			"loop": false,
 			"fps": 24,
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				-11,
-				7
+				62
 			],
 			"loop": false,
 			"fps": 24,
@@ -36,7 +36,7 @@
 		{
 			"offsets": [
 				-8,
-				-5
+				49
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-17,
-				5
+				-16,
+				59
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				-7,
-				-12
+				-6,
+				42
 			],
 			"loop": false,
 			"fps": 24,
@@ -69,7 +69,7 @@
 		{
 			"offsets": [
 				-12,
-				8
+				66
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				-7
+				-10,
+				48
 			],
 			"loop": false,
 			"fps": 24,
@@ -91,7 +91,7 @@
 		{
 			"offsets": [
 				-5,
-				-2
+				51
 			],
 			"loop": false,
 			"fps": 24,
@@ -102,7 +102,7 @@
 		{
 			"offsets": [
 				-14,
-				7
+				59
 			],
 			"loop": false,
 			"fps": 24,
@@ -118,8 +118,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				177,
-				-231
+				205,
+				-171
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
@@ -129,8 +129,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				180,
-				-50
+				210,
+				10
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -140,8 +140,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				180,
-				-236
+				207,
+				-175
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -153,7 +153,7 @@
 	"image": "characters/BF_Blox",
 	"position": [
 		0,
-		300
+		340
 	],
 	"healthicon": "bf",
 	"flip_x": true,

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Slender_Assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SlendDown0000" x="218" y="854" width="163" height="425" frameX="0" frameY="-3" frameWidth="163" frameHeight="428"/>
+	<SubTexture name="SlendDown0001" x="218" y="1279" width="163" height="425" frameX="0" frameY="-3" frameWidth="163" frameHeight="428"/>
+	<SubTexture name="SlendDown0002" x="218" y="428" width="163" height="426" frameX="0" frameY="-2" frameWidth="163" frameHeight="428"/>
+	<SubTexture name="SlendDown0003" x="218" y="0" width="163" height="428"/>
+	<SubTexture name="SlendIdle0000" x="537" y="0" width="177" height="369"/>
+	<SubTexture name="SlendIdle0001" x="537" y="369" width="177" height="369"/>
+	<SubTexture name="SlendIdle0002" x="537" y="738" width="177" height="369"/>
+	<SubTexture name="SlendIdle0003" x="537" y="1107" width="177" height="369"/>
+	<SubTexture name="SlendIdle0004" x="537" y="1107" width="177" height="369"/>
+	<SubTexture name="SlendIdle0005" x="537" y="1476" width="177" height="369"/>
+	<SubTexture name="SlendIdle0006" x="714" y="0" width="177" height="369"/>
+	<SubTexture name="SlendIdle0007" x="714" y="369" width="177" height="369"/>
+	<SubTexture name="SlendIdle0008" x="714" y="738" width="177" height="369"/>
+	<SubTexture name="SlendIdle0009" x="714" y="1107" width="177" height="369"/>
+	<SubTexture name="SlendIdle0010" x="714" y="1476" width="177" height="369"/>
+	<SubTexture name="SlendIdle0011" x="891" y="0" width="177" height="369"/>
+	<SubTexture name="SlendIdle0012" x="891" y="369" width="177" height="369"/>
+	<SubTexture name="SlendIdle0013" x="891" y="738" width="177" height="369"/>
+	<SubTexture name="SlendIdle0014" x="537" y="0" width="177" height="369"/>
+	<SubTexture name="SlendLeft0000" x="0" y="0" width="218" height="428"/>
+	<SubTexture name="SlendLeft0001" x="0" y="428" width="218" height="428"/>
+	<SubTexture name="SlendLeft0002" x="0" y="856" width="218" height="428"/>
+	<SubTexture name="SlendLeft0003" x="0" y="1284" width="218" height="428"/>
+	<SubTexture name="SlendRight0000" x="381" y="864" width="156" height="431" frameX="0" frameY="-1" frameWidth="156" frameHeight="432"/>
+	<SubTexture name="SlendRight0001" x="381" y="1295" width="156" height="431" frameX="0" frameY="-1" frameWidth="156" frameHeight="432"/>
+	<SubTexture name="SlendRight0002" x="381" y="0" width="156" height="432"/>
+	<SubTexture name="SlendRight0003" x="381" y="432" width="156" height="432"/>
+	<SubTexture name="SlendUp0000" x="891" y="1107" width="147" height="441"/>
+	<SubTexture name="SlendUp0001" x="891" y="1548" width="147" height="441"/>
+	<SubTexture name="SlendUp0002" x="1038" y="1107" width="147" height="441"/>
+	<SubTexture name="SlendUp0003" x="1038" y="1548" width="147" height="440" frameX="0" frameY="-1" frameWidth="147" frameHeight="441"/>
+</TextureAtlas>

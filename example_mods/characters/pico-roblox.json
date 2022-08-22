@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PicoIdle"
+		},
+		{
+			"offsets": [
+				-22,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PicoDown"
+		},
+		{
+			"offsets": [
+				6,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PicoUp"
+		},
+		{
+			"offsets": [
+				-12,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PicoOpRight"
+		},
+		{
+			"offsets": [
+				13,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PicoOpLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_Roblox",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-50,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

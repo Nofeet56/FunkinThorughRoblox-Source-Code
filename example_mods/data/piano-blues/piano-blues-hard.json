@@ -2655,7 +2655,7 @@
 		"needsVoices": true,
 		"arrowSkin": "",
 		"validScore": true,
-		"stage": "amphitheater",
+		"stage": "robloxStage",
 		"bpm": 120,
 		"speed": 1.8
 	}

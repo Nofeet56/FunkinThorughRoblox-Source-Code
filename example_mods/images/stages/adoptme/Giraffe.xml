@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Giraffe.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Giraffe0000" x="0" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0001" x="144" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0002" x="288" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0003" x="0" y="282" width="144" height="282"/>
+	<SubTexture name="Giraffe0004" x="0" y="564" width="144" height="282"/>
+	<SubTexture name="Giraffe0005" x="144" y="282" width="144" height="282"/>
+	<SubTexture name="Giraffe0006" x="288" y="282" width="144" height="282"/>
+	<SubTexture name="Giraffe0007" x="144" y="564" width="144" height="282"/>
+	<SubTexture name="Giraffe0008" x="288" y="564" width="144" height="282"/>
+	<SubTexture name="Giraffe0009" x="0" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0010" x="0" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0011" x="0" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0012" x="0" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0013" x="0" y="0" width="144" height="282"/>
+	<SubTexture name="Giraffe0014" x="0" y="0" width="144" height="282"/>
+</TextureAtlas>

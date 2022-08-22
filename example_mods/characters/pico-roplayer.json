@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PicoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				74
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PicoLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PicoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PicoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				69
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PicoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				76
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "PicoMissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				64
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "PicoMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				84
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "PicoMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				68
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "PicoMissRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_Roblox",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
