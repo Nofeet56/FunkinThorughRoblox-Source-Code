@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BaconIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BaconLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BaconDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BaconUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BaconRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baconHair",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

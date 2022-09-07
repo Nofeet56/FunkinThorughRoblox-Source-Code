@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-15
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFLeft",
 			"indices": [
 				0,
 				1,
 				2,
 				3
-			],
-			"name": "BFLeft"
+			]
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-11,
 				7
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "BFUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				-22
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "BFIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "BFIdle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				24,
 				-17
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "BFDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				12,
 				-33
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "BFRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFRight"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BF_Blox_Runin",
 	"position": [
-		-750,
+		-740,
 		160
 	],
 	"healthicon": "bf",

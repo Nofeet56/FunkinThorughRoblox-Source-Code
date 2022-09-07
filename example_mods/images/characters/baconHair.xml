@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baconHair.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BaconDown0000" x="0" y="0" width="250" height="424"/>
+	<SubTexture name="BaconDown0001" x="250" y="0" width="250" height="424"/>
+	<SubTexture name="BaconDown0002" x="500" y="0" width="250" height="424"/>
+	<SubTexture name="BaconDown0003" x="750" y="0" width="250" height="424"/>
+	<SubTexture name="BaconIdle0000" x="1000" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0001" x="1244" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0002" x="1488" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0003" x="1732" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0004" x="0" y="424" width="244" height="408"/>
+	<SubTexture name="BaconIdle0005" x="244" y="424" width="244" height="408"/>
+	<SubTexture name="BaconIdle0006" x="488" y="424" width="244" height="408"/>
+	<SubTexture name="BaconIdle0007" x="732" y="424" width="244" height="408"/>
+	<SubTexture name="BaconIdle0008" x="976" y="424" width="244" height="408"/>
+	<SubTexture name="BaconIdle0009" x="1000" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0010" x="1000" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0011" x="1000" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0012" x="1000" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0013" x="1000" y="0" width="244" height="408"/>
+	<SubTexture name="BaconIdle0014" x="1000" y="0" width="244" height="408"/>
+	<SubTexture name="BaconLeft0000" x="1220" y="424" width="250" height="424"/>
+	<SubTexture name="BaconLeft0001" x="1470" y="424" width="250" height="424"/>
+	<SubTexture name="BaconLeft0002" x="1720" y="424" width="250" height="424"/>
+	<SubTexture name="BaconLeft0003" x="0" y="848" width="250" height="424"/>
+	<SubTexture name="BaconRight0000" x="250" y="848" width="250" height="424" frameX="0" frameY="-2" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="BaconRight0001" x="500" y="848" width="250" height="424" frameX="0" frameY="-1" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="BaconRight0002" x="750" y="848" width="250" height="424" frameX="0" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="BaconRight0003" x="1000" y="848" width="250" height="424" frameX="0" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="BaconUp0000" x="1250" y="848" width="250" height="424"/>
+	<SubTexture name="BaconUp0001" x="1500" y="848" width="250" height="424"/>
+	<SubTexture name="BaconUp0002" x="1750" y="848" width="250" height="424"/>
+	<SubTexture name="BaconUp0003" x="0" y="1272" width="250" height="424"/>
+</TextureAtlas>
