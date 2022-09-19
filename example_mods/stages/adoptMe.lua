@@ -27,6 +27,12 @@ function onCreate()
     makeAnimatedLuaSprite('dog2', 'stages/adoptme/Dog2', 1300, 500);
     addAnimationByPrefix('dog2', 'dBop', 'Dog2', 24, false);
 
+    makeAnimatedLuaSprite('FGBop', 'stages/adoptme/FGBop', -450, 150);
+    addAnimationByPrefix('FGBop', 'FGBop', 'FGBop', 24, false);
+    scaleObject('FGBop', 1.3,1.3);
+    setScrollFactor('FGBop', 1.3, 1.3);
+
+
 
     addLuaSprite('stageback', false);
     addLuaSprite('dog1', false);
@@ -35,16 +41,20 @@ function onCreate()
     addLuaSprite('giraffe', false);
     addLuaSprite('girlsTable', false);
     addLuaSprite('dog2', false);
+    addLuaSprite('FGBop', true);
 end
 
 function onBeatHit()
+    objectPlayAnimation('dog2', 'dBop', false);
+    objectPlayAnimation('dog1', 'dogBop', false);
+    objectPlayAnimation('giraffe', 'faffBop', false);
+    objectPlayAnimation('giraffe', 'faffBop', false);
 	if curBeat % 2 == 1 or curBeat % 2 == 2 then
         objectPlayAnimation('girls1', 'girlsBop', false);
         objectPlayAnimation('gorls', 'gorlBop', false);
         objectPlayAnimation('girlsTable', 'gtBop', false);
     end  
-    
-    objectPlayAnimation('dog1', 'dogBop', false);
-    objectPlayAnimation('giraffe', 'faffBop', false);
-    objectPlayAnimation('dog2', 'dBop', false);
+    if curBeat % 2 == 0 then
+        objectPlayAnimation('FGBop', 'FGBop', false);
+    end
 end
