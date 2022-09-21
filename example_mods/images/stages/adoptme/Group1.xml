@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="Group1.png">
-	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="GG10000" x="0" y="0" width="406" height="413"/>
-	<SubTexture name="GG10001" x="406" y="0" width="406" height="413"/>
-	<SubTexture name="GG10002" x="812" y="0" width="406" height="413"/>
-	<SubTexture name="GG10003" x="1218" y="0" width="406" height="413"/>
-	<SubTexture name="GG10004" x="1624" y="0" width="406" height="413"/>
-	<SubTexture name="GG10005" x="0" y="413" width="406" height="413"/>
-	<SubTexture name="GG10006" x="406" y="413" width="406" height="413"/>
-	<SubTexture name="GG10007" x="812" y="413" width="406" height="413"/>
-	<SubTexture name="GG10008" x="1218" y="413" width="406" height="413"/>
-	<SubTexture name="GG10009" x="0" y="0" width="406" height="413"/>
-	<SubTexture name="GG10010" x="0" y="0" width="406" height="413"/>
-	<SubTexture name="GG10011" x="0" y="0" width="406" height="413"/>
-	<SubTexture name="GG10012" x="0" y="0" width="406" height="413"/>
-	<SubTexture name="GG10013" x="0" y="0" width="406" height="413"/>
-	<SubTexture name="GG10014" x="0" y="0" width="406" height="413"/>
+	<SubTexture name="GG10000" x="0" y="0" width="417" height="432"/>
+	<SubTexture name="GG10001" x="417" y="0" width="417" height="432"/>
+	<SubTexture name="GG10002" x="834" y="0" width="417" height="432"/>
+	<SubTexture name="GG10003" x="1251" y="0" width="417" height="432"/>
+	<SubTexture name="GG10004" x="0" y="432" width="417" height="432"/>
+	<SubTexture name="GG10005" x="417" y="432" width="417" height="432"/>
+	<SubTexture name="GG10006" x="834" y="432" width="417" height="432"/>
+	<SubTexture name="GG10007" x="1251" y="432" width="417" height="432"/>
+	<SubTexture name="GG10008" x="0" y="864" width="417" height="432"/>
+	<SubTexture name="GG10009" x="417" y="864" width="417" height="432"/>
+	<SubTexture name="GG10010" x="834" y="864" width="417" height="432"/>
+	<SubTexture name="GG10011" x="1251" y="864" width="417" height="432"/>
+	<SubTexture name="GG10012" x="0" y="1296" width="417" height="432"/>
+	<SubTexture name="GG10013" x="417" y="1296" width="417" height="432"/>
+	<SubTexture name="GG10014" x="0" y="0" width="417" height="432"/>
 </TextureAtlas>

@@ -27,16 +27,26 @@ function onCreate()
     makeAnimatedLuaSprite('dog2', 'stages/adoptme/Dog2', 1300, 500);
     addAnimationByPrefix('dog2', 'dBop', 'Dog2', 24, false);
 
-    makeAnimatedLuaSprite('FGBop', 'stages/adoptme/FGBop', -450, 150);
+    makeAnimatedLuaSprite('girlSolo1', 'stages/adoptme/Gorl', -100, 300);
+    addAnimationByPrefix('girlSolo1', 'gBop', 'G3Bop', 24, false);
+    scaleObject('girlSolo1', 0.8, 0.8);
+    setScrollFactor('girlSolo1', 0.95, 0.95);
+
+    makeAnimatedLuaSprite('girlSolo2', 'stages/adoptme/Gorl', 1100, 300);
+    addAnimationByPrefix('girlSolo2', 'gBop', 'G3Bop', 24, false);
+    scaleObject('girlSolo2', 0.8, 0.8);
+    setScrollFactor('girlSolo2', 0.95, 0.95);
+
+    makeAnimatedLuaSprite('FGBop', 'stages/adoptme/FGBop', -450, 200);
     addAnimationByPrefix('FGBop', 'FGBop', 'FGBop', 24, false);
-    scaleObject('FGBop', 1.3,1.3);
+    scaleObject('FGBop', 1.4,1.4);
     setScrollFactor('FGBop', 1.3, 1.3);
-
-
 
     addLuaSprite('stageback', false);
     addLuaSprite('dog1', false);
     addLuaSprite('girls1', false);
+    addLuaSprite('girlSolo1', false);
+    addLuaSprite('girlSolo2', false);
     addLuaSprite('gorls', false);
     addLuaSprite('giraffe', false);
     addLuaSprite('girlsTable', false);
@@ -53,6 +63,8 @@ function onBeatHit()
         objectPlayAnimation('girls1', 'girlsBop', false);
         objectPlayAnimation('gorls', 'gorlBop', false);
         objectPlayAnimation('girlsTable', 'gtBop', false);
+        objectPlayAnimation('girlSolo1', 'gBop', false);
+        objectPlayAnimation('girlSolo2', 'gBop', false);
     end  
     if curBeat % 2 == 0 then
         objectPlayAnimation('FGBop', 'FGBop', false);
