@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ADG_Menu.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ADGIdleMenu0000" x="0" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0001" x="138" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0002" x="276" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0003" x="414" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0004" x="552" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0005" x="690" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0006" x="828" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0007" x="0" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0008" x="0" y="316" width="131" height="320" frameX="-13" frameY="0" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0009" x="131" y="316" width="131" height="320" frameX="-12" frameY="0" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0010" x="262" y="316" width="131" height="320" frameX="-12" frameY="0" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0011" x="393" y="316" width="131" height="320" frameX="-13" frameY="0" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0012" x="524" y="316" width="131" height="320" frameX="-14" frameY="0" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0013" x="655" y="316" width="131" height="320" frameX="-14" frameY="0" frameWidth="145" frameHeight="320"/>
+	<SubTexture name="ADGIdleMenu0014" x="0" y="0" width="138" height="316" frameX="0" frameY="-3" frameWidth="145" frameHeight="320"/>
+</TextureAtlas>

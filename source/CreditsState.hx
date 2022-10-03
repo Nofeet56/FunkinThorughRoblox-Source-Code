@@ -81,13 +81,6 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Funkin Through Roblox Team'],
-			['Nofeet',		'nofeet',		'Project Lead, Programer, Composer, Voice Actor, and Artist',		'https://www.youtube.com/channel/UCNeGmEQkWwvj8vSJRUq4EHA',		'21B6AB'],
-			['TigerWTYT', 		'tigerwtyt',		'Voice Actor and Background Artist',		'https://www.youtube.com/channel/UCKnquhnBHCwWZkSUHNNB1GQ',		'D68282'],
-			['MrGenie151', 		'mrgeine151',		'Programmer',		'https://gamebanana.com/members/1882760',		'59b0e3'],
-			['WhiteSword-v', 		'whitesword-v',		'Artist',		'https://gamebanana.com/members/1836548',		'b33be3'],
-			['CactoAesis', 		'cactoaesis',		'Composer',		'https://gamebanana.com/members/1836548',		'0cb339'],
-			['SpotMan',		'spotman',		'Voice Actor',		'https://www.youtube.com/channel/UCfwnapqsrueBD3VB0aMVOhg',		'6D5ECF'],
 			[''],
 			['Extras'],
 			['TableTopTwo',		'tabletoptwo',		'Twitch Accound for Nofeet and TigerWTYT',		'https://www.twitch.tv/tabletoptwo',	'AF7C3A'],

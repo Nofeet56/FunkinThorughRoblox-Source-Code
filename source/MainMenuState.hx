@@ -48,6 +48,8 @@ class MainMenuState extends MusicBeatState
 	var nofeet:BGSprite;
 	var wt:BGSprite;
 	var spot:BGSprite;
+	var sonic:BGSprite;
+	var adg:BGSprite;
 
 	override function create()
 	{
@@ -108,19 +110,20 @@ class MainMenuState extends MusicBeatState
 		blackShit.antialiasing = ClientPrefs.globalAntialiasing;
 		add(blackShit);
 
-		bf = new BGSprite('characters/bf_menublox', 700, 360, 0, 0, ['BF Idle Menu'], true);
+		bf = new BGSprite('characters/bf_menublox', 700, 350, 0, 0, ['BF Idle Menu'], true);
 		bf.visible = false;
 		bf.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bf);
 
-		nofeet = new BGSprite('characters/Nofeet_Menu', 700, 280, 0, 0, ['NofeetIdle instance'], true);
+		nofeet = new BGSprite('characters/Nofeet_Menu', 700, 380, 0, 0, ['NofeetIdle instance'], true);
 		nofeet.visible = false;
+		nofeet.setGraphicSize(Std.int(bf.width * 0.8));
 		nofeet.antialiasing = ClientPrefs.globalAntialiasing;
 		add(nofeet);
 
 		wt = new BGSprite('characters/WT_Menu', 650, 200, 0, 0, ['WT Idle instance'], true);
 		wt.visible = false;
-		wt.setGraphicSize(Std.int(bf.width * 0.8));
+		wt.setGraphicSize(Std.int(bf.width * 0.7));
 		wt.antialiasing = ClientPrefs.globalAntialiasing;
 		add(wt);
 
@@ -130,7 +133,19 @@ class MainMenuState extends MusicBeatState
 		spot.antialiasing = ClientPrefs.globalAntialiasing;
 		add(spot);
 
-		var randomNum:Int = FlxG.random.int(1,4);
+		sonic = new BGSprite('characters/Sonic_Menu', 800, 350, 0, 0, ['SonicMenuIdle'], true);
+		sonic.visible = false;
+		sonic.setGraphicSize(Std.int(bf.width * 0.5));
+		sonic.antialiasing = ClientPrefs.globalAntialiasing;
+		add(sonic);
+
+		adg = new BGSprite('characters/ADG_Menu', 850, 350, 0, 0, ['ADGIdleMenu'], true);
+		adg.visible = false;
+		adg.setGraphicSize(Std.int(bf.width * 0.4));
+		adg.antialiasing = ClientPrefs.globalAntialiasing;
+		add(adg);
+
+		var randomNum:Int = FlxG.random.int(1,6);
 		switch(randomNum)
 		{
 			case 1:
@@ -145,6 +160,12 @@ class MainMenuState extends MusicBeatState
 			case 4:
 				spot.visible = true;
 				trace("Spot Time");
+			case 5:
+				sonic.visible = true;
+				trace("Sonic Time");
+			case 6:
+				adg.visible = true;
+				trace("ADG Time");
 		}
 		
 		// magenta.scrollFactor.set();

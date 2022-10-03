@@ -300,7 +300,7 @@ class TitleState extends MusicBeatState
 
 		var easterEgg:String = FlxG.save.data.psychDevsEasterEgg;
 		if(easterEgg == null) easterEgg = ''; //html5 fix
-		var randomScreen:Int = FlxG.random.int(1,4);
+		var randomScreen:Int = FlxG.random.int(1,5);
 
 		switch(easterEgg.toUpperCase())
 		{
@@ -339,8 +339,8 @@ class TitleState extends MusicBeatState
 						gfDance.animation.addByIndices('danceRight', 'WTTitle', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 						trace("WT Time");
 					case 3:
-						var amphi = new BGSprite('Title/bgs/Amphitheater', -600, -350, 0.9, 0.9);
-						add(amphi);
+						var bg = new BGSprite('Title/bgs/StageTitle', -600, -350, 0.9, 0.9);
+						add(bg);
 						gfDance.frames = Paths.getSparrowAtlas('Title/gfs/nofeetTitle');
 						gfDance.animation.addByIndices('danceLeft', 'NofeetTitle', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 						gfDance.animation.addByIndices('danceRight', 'NofeetTitle', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
@@ -352,6 +352,13 @@ class TitleState extends MusicBeatState
 						gfDance.animation.addByIndices('danceLeft', 'SpotTitle', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 						gfDance.animation.addByIndices('danceRight', 'SpotTitle', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 						trace("Spot Time");
+					case 5:
+						var greenHill = new BGSprite('Title/bgs/greenHill', 0, -150);
+						add(greenHill);
+						gfDance.frames = Paths.getSparrowAtlas('Title/gfs/sonicTitle');
+						gfDance.animation.addByIndices('danceLeft', 'SonicMenu', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
+						gfDance.animation.addByIndices('danceRight', 'SonicMenu', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+						trace("Sonic Time");
 				}
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;

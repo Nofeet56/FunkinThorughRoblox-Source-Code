@@ -2937,11 +2937,6 @@
 						0
 					],
 					[
-						69882.3529411764,
-						6,
-						0
-					],
-					[
 						70058.8235294117,
 						7,
 						0
@@ -4231,6 +4226,11 @@
 					[
 						102882.352941176,
 						3,
+						0
+					],
+					[
+						102352.94117647,
+						7,
 						0
 					]
 				],
@@ -6430,6 +6430,26 @@
 				"bpm": 170
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 170,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 170
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -6442,268 +6462,7 @@
 		],
 		"player2": "ADGNormal",
 		"gfVersion": "gf-roblox",
-		"events": [
-			[
-				5647.05882352941,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				22941.1764705882,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				24352.9411764706,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				24794.1176470588,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				34235.2941176471,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				34941.1764705882,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				35117.6470588235,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				36000,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				36352.9411764706,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				45529.4117647059,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				46235.294117647,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				47117.6470588235,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				47205.8823529411,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				47294.1176470588,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				57529.4117647058,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				58235.294117647,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				58588.2352941176,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				58941.1764705882,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				59823.5294117646,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				60352.9411764705,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				61058.8235294117,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				61411.7647058823,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				67411.7647058823,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				110117.647058823,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				115852.94117647,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			],
-			[
-				117264.705882353,
-				[
-					[
-						"Adopt Me Trade Request",
-						"",
-						""
-					]
-				]
-			]
-		],
+		"events": [],
 		"player3": null,
 		"song": "Abuse",
 		"needsVoices": true,
