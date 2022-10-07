@@ -3,14 +3,18 @@
 	"difficulties": "Hard, Refunked",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Newcomer",
@@ -20,13 +24,18 @@
 				80,
 				80
 			]
+		],
+		[
+			"Try Me",
+			"Slen",
+			[
+				66,
+				13,
+				115
+			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "LMAO Week 2"
+	"hideStoryMode": false,
+	"weekName": "LMAO Week 2",
+	"hiddenUntilUnlocked": false
 }
