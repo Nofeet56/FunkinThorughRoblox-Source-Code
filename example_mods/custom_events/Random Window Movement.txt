@@ -1,1 +1,0 @@
-Moves the window randomly around the screen

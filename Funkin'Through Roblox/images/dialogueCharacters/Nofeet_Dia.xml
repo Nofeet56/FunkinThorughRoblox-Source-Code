@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nofeet_Dia.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NofeetNoTalk0000" x="0" y="0" width="419" height="447"/>
+	<SubTexture name="NofeetTalk0000" x="0" y="0" width="419" height="447"/>
+	<SubTexture name="NofeetTalk0001" x="419" y="0" width="419" height="447"/>
+	<SubTexture name="NofeetTalk0002" x="838" y="0" width="419" height="447"/>
+	<SubTexture name="NofeetTalk0003" x="1257" y="0" width="419" height="447"/>
+	<SubTexture name="NofeetTalk0004" x="0" y="447" width="419" height="447"/>
+</TextureAtlas>

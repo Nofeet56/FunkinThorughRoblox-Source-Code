@@ -1,0 +1,84 @@
+{
+	"songs": [
+		{
+			"displayName": "Piano Blues",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "nofeet",
+			"color": "#779CE9",
+			"name": "piano-blues",
+			"bpm": 120
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"Hard"
+			],
+			"char": "sonic",
+			"color": "#5488F2",
+			"name": "speed",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": null,
+			"char": "adoptgirl",
+			"bpm": 120,
+			"name": "adopt-me",
+			"color": "#E1DFA3"
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": null,
+			"char": "wt",
+			"bpm": 172,
+			"name": "newcomer",
+			"color": "#E96363"
+		},
+		{
+			"displayName": "Try Me",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "slender",
+			"color": "#E5D7C2",
+			"name": "try-me",
+			"bpm": 120
+		},
+		{
+			"bpm": 100.5,
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": null,
+			"char": "gf",
+			"name": "treasure",
+			"color": "#EA7771"
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": null,
+			"char": "bf-roblox",
+			"bpm": 163,
+			"name": "tribulation",
+			"color": "#3FE4F8"
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": null,
+			"char": "spot-man",
+			"bpm": 163,
+			"name": "spotty",
+			"color": "#FDDF68"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"songs": [
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "speed"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "adopt-me"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "newcomer"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "try-me"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "tribulation"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "spotty"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "treasure"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": null,
+			"scripts": [],
+			"name": "piano-blues"
+		}
+	]
+}
