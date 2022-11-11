@@ -134,6 +134,7 @@ function update(elapsed:Float){
         numSelect--;
         CoolUtil.playMenuSFX(0);
     }
+    if (FlxG.keys.justPressed.BACKSPACE){FlxG.switchState(new TitleState());}
 
     switch (numSelect){
         case 0:

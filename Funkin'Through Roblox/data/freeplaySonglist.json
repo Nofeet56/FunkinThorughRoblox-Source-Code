@@ -1,84 +1,94 @@
 {
 	"songs": [
 		{
+			"difficulties": [
+				"Hard"
+			],
 			"displayName": "Piano Blues",
-			"difficulties": [
-				"Hard"
-			],
 			"char": "nofeet",
-			"color": "#779CE9",
-			"name": "piano-blues",
-			"bpm": 120
-		},
-		{
-			"displayName": null,
-			"difficulties": [
-				"Hard"
-			],
-			"char": "sonic",
-			"color": "#5488F2",
-			"name": "speed",
-			"bpm": 150
-		},
-		{
-			"difficulties": [
-				"Hard"
-			],
-			"displayName": null,
-			"char": "adoptgirl",
 			"bpm": 120,
-			"name": "adopt-me",
-			"color": "#E1DFA3"
+			"name": "piano-blues",
+			"color": "#779CE9"
 		},
 		{
 			"difficulties": [
 				"Hard"
 			],
 			"displayName": null,
-			"char": "wt",
-			"bpm": 172,
-			"name": "newcomer",
-			"color": "#E96363"
+			"char": "sonic",
+			"bpm": 150,
+			"name": "speed",
+			"color": "#5488F2"
 		},
 		{
-			"displayName": "Try Me",
+			"displayName": null,
 			"difficulties": [
 				"Hard"
 			],
-			"char": "slender",
-			"color": "#E5D7C2",
-			"name": "try-me",
+			"char": "adoptgirl",
+			"color": "#E1DFA3",
+			"name": "adopt-me",
 			"bpm": 120
 		},
 		{
-			"bpm": 100.5,
+			"displayName": null,
+			"difficulties": [
+				"Hard"
+			],
+			"char": "wt",
+			"color": "#E96363",
+			"name": "newcomer",
+			"bpm": 172
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Try Me",
+			"char": "slender",
+			"bpm": 120,
+			"name": "try-me",
+			"color": "#E5D7C2"
+		},
+		{
+			"bpm": 97,
 			"difficulties": [
 				"Hard"
 			],
 			"displayName": null,
+			"char": "bf",
+			"name": "Bacon",
+			"color": "#FFFFFF"
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"Hard"
+			],
 			"char": "gf",
+			"color": "#EA7771",
 			"name": "treasure",
-			"color": "#EA7771"
+			"bpm": 100.5
 		},
 		{
+			"displayName": null,
 			"difficulties": [
 				"Hard"
 			],
-			"displayName": null,
 			"char": "bf-roblox",
-			"bpm": 163,
+			"color": "#3FE4F8",
 			"name": "tribulation",
-			"color": "#3FE4F8"
+			"bpm": 163
 		},
 		{
+			"displayName": null,
 			"difficulties": [
 				"Hard"
 			],
-			"displayName": null,
 			"char": "spot-man",
-			"bpm": 163,
+			"color": "#FDDF68",
 			"name": "spotty",
-			"color": "#FDDF68"
+			"bpm": 163
 		}
 	]
 }

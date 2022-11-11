@@ -50,10 +50,10 @@
 			"name": "treasure"
 		},
 		{
+			"scripts": [],
+			"difficulties": null,
 			"end_cutscene": null,
 			"cutscene": null,
-			"difficulties": null,
-			"scripts": [],
 			"name": "piano-blues"
 		}
 	]
